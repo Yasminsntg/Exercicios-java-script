@@ -58,3 +58,58 @@
 // console.log (f);
 
 // ATIVIDADE 7 
+
+// let resultado = 15 % 4;
+
+// console.log(resultado);
+
+// ATIVIDADE 8
+
+// let desconto = 20; 
+// let produto = 180;
+
+// console.log (desconto * produto / 100);
+
+// ATIVIDADE 9
+
+//  let numero = 60;
+//  let antecessor = 59;
+//  let sucessor = 61;
+
+//  console.log ("antecessor de"  + "numero" + "é;" + antecessor);
+//  console.log ("sucessor de"  + "numero" + "é;" + sucessor);
+
+// ATIVIDADE 10
+
+// let peso = 45;
+// let altura = 9;
+// let numero= peso * altura / 2;
+
+// console.log (numero)
+
+
+// ATIVIDADE 11
+
+// let numero1 = 10;
+// let numero2 = "10";
+// let resultado = (numero1 === numero2);
+
+// console.log (resultado);
+
+
+// ATIVIDADE 12
+
+// let idadex = 19;
+// if (idade >= 18) {
+//     console.log ("Maior ou igual a 18 anos");
+// }
+
+// // ATIVIDADE 13 
+
+// let javascript = "javascript";
+// let Javascript = "Javascipt";
+
+// let resultado = javascript == Javascript;
+
+// console.log (resultado)
+
