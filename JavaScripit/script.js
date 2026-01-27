@@ -113,3 +113,127 @@
 
 // console.log (resultado)
 
+// Atividade 17
+
+// let saldo = 1000
+// let saque = 1200
+// if (saldo >=saque){
+//     console.log("saque disponivel")
+// }
+
+// else{
+//         console.log("saque indisponivel")
+
+// }
+
+// ATIVIDADE 18
+
+// let T = true
+// let t = "true"
+// if (T===t){
+//     console.log("Sim, o tipo das variaveis são iguais")
+// }
+
+// else (
+//         console.log("Não, o tipo das variaveis não são iguais")
+
+// )
+
+// ATIVIDADE 19
+
+// let N = 60;
+// if ( N>=10 && N<=50){
+//     console.log(`sim, ${N} esta entre 10 e 50`)
+
+// }
+
+// else{
+//     console.log(`Não, ${N} não esta entre 10 e 50`)
+// }
+//  ATIVIDADE 20
+
+// let user= "admin";
+// let senha= "1234";
+// if (user === "admin" && senha === "1234"){
+//     console.log("Login bem sucedido")
+// }
+
+// else{
+//     console.log("Usuario ou senha invalido, tente novamente!")
+// }
+
+// ATIVIDADE 21
+
+// let N = 16;
+// if ( N>=18 && N<=70){
+//     console.log(`${N}: sim, essa pessoa pode votar ` )
+// }
+// else{
+//         console.log(`${N}: Não, essa pessoa não possui idade suficiente para votar` )
+
+
+// ATIVIDADE 22
+
+// let D= "terça"
+// if (D == "sabado" || D==  "domingo"){
+//     console.log(`Sim, ${D} é um final de semana`)
+// }
+
+// else {
+//         console.log(`Não, ${D} não é um  final de semana`)
+
+// }
+
+// ATIVIDADE 23
+
+// let n= -1
+// if ( n>=0){
+//     console.log(` sim, ${n} é um numero positivo`);
+// }
+
+// else{
+//        console.log(` Não, ${n} não é um numero positivo`);
+ 
+// }
+
+// ATIVIDADE 24 
+
+// let estachovendo= true
+// console.log("esta chovendo: ",  !estachovendo);
+
+
+// ATIVIDADE 25
+
+// let media = 8.0
+// let ft= 5 
+// if ( media >=7.0 && ft <=10){
+//     console.log("Aluno aprovado!")
+// }
+// else{
+//         console.log("Aluno desaprovado!")
+
+// }
+
+// ATIVIDADE 26
+
+// let n1 = 0;
+// let n = 5;
+
+// if (n == n1){
+//     console.log("Sim o número é igua a zero!")
+// }
+
+// else{
+//     console.log("O número não é igual a zero!")
+// }
+
+
+// // ATIVIDADE 27
+
+// let a = 5;
+// let b = 10;
+
+// a = b;
+// b -= 5;
+
+// console.log(a,b);
