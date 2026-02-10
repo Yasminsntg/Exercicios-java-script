@@ -193,7 +193,7 @@
 
 // else{
 //        console.log(` Não, ${n} não é um numero positivo`);
- 
+
 // }
 
 // ATIVIDADE 24 
@@ -237,3 +237,187 @@
 // b -= 5;
 
 // console.log(a,b);
+
+
+// MODULO 2 
+
+// ATIVIDADE 8 
+
+// let valor = 10.0 ;
+// let destino = "EUR" ;
+
+// switch (destino) {
+//         case "EUR" : {
+//             console.log( "valor em euro " + (valor/6.0).toFixed(2))
+//             break;
+//         }
+//         case "USD" : {
+//             console.log( "valor em euro " + (valor/5.0).toFixed(2))
+//             break;
+//         }
+//         case "GBP" : {
+//             console.log( "valor em euro " + (valor/7.0).toFixed(2))
+//             break;
+//         }
+//         default: {
+//             console.log(" DIGITE UM VALOR OU DESTINO VALIDO")
+//             break;
+//         }
+// }
+
+// ATIVIDADE 9 
+
+// let cat= "criança"
+
+// switch (cat) {
+
+//     case "criança" : {
+//         console.log(` A faixa etaria de ${cat} é de : 0 a 12 anos `)
+//         break;
+//     }
+
+//     case "adolecente" : {
+//         console.log(` A faixa etaria de ${cat} é de : 13 a 17 anos `)
+//         break;
+
+//     }
+//     case "adulto": {
+//         console.log(` A faixa etaria de ${cat} é de : 18 a 64 anos `)
+//         break;
+//     }
+//     case "idoso" : {
+//         console.log(` A faixa etaria de ${cat} é de : 65+ anos `)
+//         break;
+//     }
+// default : {
+//   console.log("Não faz parte da categoria")
+//   break;
+
+// }
+
+// }
+
+// ATIVIDADE 10
+
+// let v= "carro"
+
+// switch(v){
+//     case "carro" :{
+//         console.log(`valo do pedagio para ${v} : 7.0 reais`)
+//         break;
+//     }
+//     case "caminhão" :{
+//         console.log(`valo do pedagio para ${v} : 40.0 reais`)
+//         break;
+//     }
+//     case "moto" :{
+//         console.log(`valo do pedagio para ${v} : 3.0 reais`)
+//         break;
+//     }
+//     default : {
+//         console.log("não é um veiculo")
+//         break;
+//     }
+// }
+
+// ATIVIDADE 11
+
+// let d = "7"
+
+// switch (d) {
+//     case "2":
+//     case "3":
+//     case "4":
+//     case "5":
+//     case "6":
+//         {
+//             console.log("dia útil")
+//             break;
+//         }
+
+//     case "1":
+//     case "7": {
+//         console.log("Fim de semana")
+//         break;
+//     }
+//     default :{
+//         console.log("Não corresponde a um dia da semana")
+//     }
+
+// }
+
+// ATIVIDADE 12
+
+//  let s = "5"
+//  switch ( s ){
+//     case "1" :{
+//         console.log("Aguardando")
+//         break;
+//     }
+//     case "2" :{
+//         console.log("Enviado")
+//         break;
+//     }
+//     case "3" :{
+//         console.log("Entregue")
+//         break;
+//     }
+//     default:{
+//         console.log("INVALIDO!")
+//     }
+//  }
+
+// ATIVIDADE 13
+
+// let l = "n"
+
+// switch (l){
+
+//     case "n" : {
+//         console.log("norte")
+//         break;
+//     }
+
+//     case "s" : {
+//         console.log("sul")
+//         break;
+//     }
+
+//     case "l" : {
+//         console.log("leste")
+//         break;
+//     }
+
+//     case "o" : {
+//         console.log("oeste")
+//         break;
+//     }
+//     default:{
+//         console.log("invalido")
+//         break;
+//     }
+
+// }
+
+// ATIVIDADE 14
+
+// let c = "admin"
+
+// switch(c){
+//     case "admin" : {
+//         console.log(`${c} : Pode criar, editar e apagar conteudos`)
+//         break;
+//     }
+//     case "editor" : {
+//         console.log(`${c} : Pode criar, editar conteudos mas não pode apagar usuarios nem mudar permissoes`)
+//         break;
+//     }
+//     case "visitante" : {
+//         console.log(`${c} : so pode visualizar`)
+//         break;
+//     }
+//     default: {
+//         console.log("invalido")
+//     }
+// }
+
