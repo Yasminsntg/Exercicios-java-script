@@ -69,3 +69,27 @@
 // } else{
 //     alert ("usário ou senha inválido.");
 // }
+
+// questao 7
+
+// let diadasemana = (prompt("Digite o número do dia da semana:"))
+
+// questao 8
+
+// let idadecanina = parseInt(prompt("Digite a idade do seu cão:"));
+// let idadeHumana = idadecanina * 7;
+
+// alert ("o cão tem " + idadecanina +idadeHumana);
+
+// // questao 9
+
+// let diasdaSemana = (prompt("Domingo", "Segunda",  "Terça", "Quarta", "Quinta", " Sexta", "Sábado"));
+// let numero = (prompt("Digite um número de 1 a 7"));
+
+// if (1 <= 7 ){
+//     alert ("o dia correspondente  a hoje é:", dias[numero - 1]);
+// }else{
+//     alert("número inválido! digite ente 1 a 7.")
+// }
+
+// questao 10
